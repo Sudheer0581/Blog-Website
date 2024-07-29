@@ -1,2 +1,2 @@
 # Blog-Website
-This is blog websitr
+This is blog website
